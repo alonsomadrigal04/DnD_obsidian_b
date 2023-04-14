@@ -1,11 +1,13 @@
-""[[Menister]], dijo que como se quedaría allí un tiempo más, esto os desconcertó, debido a que primero os habia dicho que queria el arma para volver a ser libre. Pero el os cue"
+"[[Menister]], dijo que como se quedaría allí un tiempo más, esto os desconcertó, debido a que primero os había dicho que quería el arma para volver a ser libre. Pero él os cuenta que hay un cuervo un tanto extraño que le pide ayuda siempre que lo ve, solo los días de *Velar*"
 
-· Comenzará la recopilacion de la informacion sobre los [[Los Hombres Fortuitos]], si le preguntan a Menister. 
-· Despues les dará un mapa que encontró en una de las páginas del libro, se creé que este mapa fue puesto en el mismo por [[Zaperdes]]
+Decidisteis quedaros para ayudar al hombre a esperar a tal cuervo con capacidad de hablar. Una noche que estabais todos
+
+· Comenzará la recopilación de la información sobre los [[Los Hombres Fortuitos]], si le preguntan a Menister. 
+· Después les dará un mapa que encontró en una de las páginas del libro, se cree que este mapa fue puesto en el mismo por [[Zaperdes]]
 
 ### Camino brujo
 ---
-tendrán que ir hacia Wytchway, la aldea les servirá como punto de partida. 
+Tendrán que ir hacia Wytchway, la aldea les servirá como punto de partida. 
 
 <font color="#595959">Los ataques de monstruos obligaron a los residentes de Wytchway a abandonar la aldea hace años. Todo lo que queda es un carro averiado rodeado de cercas podridas y granjas en ruinas, envueltas en niebla e invadidas por cerdos salvajes.</font>
 
