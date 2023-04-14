@@ -1,0 +1,2 @@
+· Aspecto: <font color="#00b0f0">"Unos palidos ojos os examinan de arriba a abajo. Con su debil mirada intenta discerniros con su debil vista. Aun por su viejo estado, Menister parece tener latente en el un poder que os estremece un pequeño atisvo de iluminacion que os dislumbra. Y es que Menister tiene un poder arcano que desconoceis. </font>
+<font color="#00b0f0">Viste con unos arapos tipicos de los duida nomadas del sur de Énosis, su piel blanca delata su lejano parecido con la raza humana, y es que es lo mas parecido a un elfo palido que hayais podido imaginar."</font>

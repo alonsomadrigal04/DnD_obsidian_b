@@ -1,0 +1,3 @@
+Kenku; Zasperdes era un hombre cuervo que tenía el don de esconder cosas. También fue el fundador de Scarlet Sash, un grupo de hombres cuervos conocido por robar objetos mágicos de personas malvadas y esconder objetos malignos del mundo en general.
+
+Eligió el Libro del Cuervo como escondite para el mapa porque cualquiera que se interesara por su temática también podría estar interesado en seguir el mapa hasta su destino: un chalet en ruinas enclavado en unas remotas tierras altas.

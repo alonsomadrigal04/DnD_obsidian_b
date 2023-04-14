@@ -1,0 +1,1 @@
+"Una oscura casa de piedra se alza enfrente vuestro, despues de una dra caminata solo querriais descansar, pero nada más llegar se os presenta un escenario peculiar. y es que todos los rincones de esta casa, estan rodeados de cuervos, pero cuervos que no os apartan la mirada"
