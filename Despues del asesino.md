@@ -1,4 +1,4 @@
-Encuentran el: [[Objetos#Libro del cuervo]], Se lo entregará [[Menister]], despues de haber hecho la mision en las montañas de la Isla.
+""[[Menister]], dijo que como se quedaría allí un tiempo más, esto os desconcertó, debido a que primero os habia dicho que queria el arma para volver a ser libre. Pero el os cue"
 
 · Comenzará la recopilacion de la informacion sobre los [[Los Hombres Fortuitos]], si le preguntan a Menister. 
 · Despues les dará un mapa que encontró en una de las páginas del libro, se creé que este mapa fue puesto en el mismo por [[Zaperdes]]
