@@ -6,7 +6,7 @@ El cuervo les llevará hasta un libro enterrado en el suelo y les dirá que lo c
 
 ---
 #### Si alguien puede hablar con los animales
-El cuervo hablará <u>expresamente y pedirá ayuda a la party</u>. Les dirá que es hija de [[Brantifax]]
+El cuervo hablará <u>expresamente y pedirá ayuda a la party</u>. Les dirá que es hija de [[Brantifax]], [[Sympha]]
 
 · Comenzará la recopilación de la información sobre los [[Los Hombres Fortuitos]], si le preguntan a Menister. 
 · Después les dará un mapa que encontró en una de las páginas del libro, se cree que este mapa fue puesto en el mismo por [[Zaperdes]]
