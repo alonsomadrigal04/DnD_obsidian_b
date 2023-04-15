@@ -47,7 +47,7 @@ La puerta está cerrada, por un "Crossbar", dentro de la misma. Pueden romper la
 
 Dos polillas inofensivas salen volando de la capa si se toca la prenda. Uno de los bolsillos de la capa contiene una llave de hierro oxidada que abre el candado en el <font color="#e36c09">área C16</font> .
 
-## <font color="#e36c09">C5. Salon</font>
+## <font color="#e36c09">C5. Sala de estar</font>
 
 <font color="#00b0f0">"La luz entra en esta espaciosa habitación a través de un bulto en la pared norte, donde las ventanas agrietadas y rotas dan a un valle neblinoso. Sábanas polvorientas cubren la mayor parte del mobiliario de la habitación. Las telarañas se extienden entre las astas, las cabezas de lobo y otros trofeos de caza montados en las paredes sobre el revestimiento de madera. Un rectángulo pálido sobre la gran chimenea sugiere que una vez colgó allí una imagen o un espejo."</font>
 
@@ -64,3 +64,10 @@ Dos polillas inofensivas salen volando de la capa si se toca la prenda. Uno de 
 "<font color="#00b0f0">El olor fantasmal de las comidas pasadas aún ronda esta cocina, atrapada para siempre en la madera de sus mesas, el hollín en su hogar y la mugre en sus ollas, muchas de las cuales cuelgan de ganchos por la habitación. Casi todo lo que esperaría ver en una cocina de este tamaño se puede encontrar aquí, incluidos armarios llenos de platos, artículos de limpieza y utensilios de cocina. Los ratones corretean por el suelo, haciendo todo lo posible para evitarte.</font>"
 
 · Está claro que la cocina todavía ve uso. Los miembros de Scarlet Sash almacenan raciones y especias en algunas de las ollas y calderos, para mantenerlos alejados de los ratones, y algunos platos sucios se apilan cerca de un lavabo, esperando ser lavados.
+
+## <font color="#e36c09">C8. Salón</font>
+<font color="#00b0f0">"La pieza central de este salón es una mesa baja con incrustaciones de oro, alrededor de la cual se disponen cuidadosamente un puñado de sillas y sofás mullidos. Otros muebles incluyen un gabinete lleno de licoreras de vidrio y copas de vino, y un arpa dorada de seis pies de alto que se encuentra en la esquina noroeste. Una escalera en la esquina noreste asciende al segundo piso, y varias hojas polvorientas yacen en un pequeño montón cercano."</font>
+
+· Parece estar todo curiosamente limpio.
+
+C9: Cementerio
