@@ -134,4 +134,6 @@ Es el lugar de reunión de [[Faja escarlata]]
 
 ### Si no han sido sniki
 ---
-[[Faja escarlata#Rennick Groka]], les espera para hablar con ellos sobre por que hacen aqui
+[[Faja escarlata#Rennick Groka]], les espera para hablar con ellos sobre por qué hacen aquí y les intentará echar, pero no querrá pelear, simplemente les espera e intenta persuadir para que se vayan.
+
+# <font color="#e36c09">TERCER PISO (C15 - C17)</font>
