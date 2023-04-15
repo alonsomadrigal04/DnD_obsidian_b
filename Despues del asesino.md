@@ -48,5 +48,7 @@ Tienen que resolver el siguiente enigma o tendrán que pelear con un https://5e.
 <font color="#00b0f0">La solución a este rompecabezas, está en dibujar con maestría, con las piedras en el suelo, los dos elementos antagónicos, que encierran en sí la armonía.""</font>
 2 min 
 
+· Si lo consiguen: 
+
 ---
 Llegan a [[La mansion Brantifax]]
