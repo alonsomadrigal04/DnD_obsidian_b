@@ -116,3 +116,9 @@ El escritorio de tapa corrediza está cerrado con llave y falta su llave. Un pe
 
 ## <font color="#e36c09">C13. Recamara principal</font>
 <font color="#00b0f0">"Este amplio dormitorio tiene paredes decoradas con revestimientos de madera y lámparas de aceite oxidadas. Una cama con dosel se alza contra la pared sur, con los postes de la cama tallados para que parezcan ciervos y lobos. Frente a la cama hay un hogar de piedra con una repisa de mármol negro que tiene un par de cuernos de alce montados encima. Un escritorio desnudo y cubierto de polvo está colocado contra la pared oeste, debajo de un par de ventanas altas flanqueadas por cortinas de color burdeos. Otros muebles incluyen un armario alto en la esquina noreste y una perrera vacía en la esquina sureste."</font>
+
+Los hombres cuervos comparten esta habitación, que pertenecía al barón [[Bantifax]] y su esposa. La cama es el único mueble que está atornillado al suelo, ya que uno de los postes de la cama abre una puerta secreta cercana.
+
+***Puerta secreta***. Los personajes que busquen puertas secretas en la habitación encontrarán una a lo largo de la pared suroeste. El poste de la cama más cercano a la puerta secreta se puede girar en sentido contrario a las agujas del reloj; al hacerlo, la puerta secreta se abre, revelando el <font color="#e36c09">área C14</font> más allá. Un personaje puede usar una acción para intentar abrir la puerta secreta usando herramientas de ladrón, haciéndolo con una prueba exitosa de Destreza CD 15.
+
+## <font color="#e36c09">C14. Loft del Baron</font>
