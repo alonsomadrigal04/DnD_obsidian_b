@@ -75,10 +75,6 @@ Dos polillas inofensivas salen volando de la capa si se toca la prenda. Uno de 
 
 De norte a sur los grabados dicen lo siguiente:
 
-_Barón Brantifax_
-_Esposo, Padre, Cazador_
-_"Que ningún hombre esté por encima de otro"_
 
-Brorn
-_Sabueso de Brantifax_
-_Fiel hasta el final_
+
+
