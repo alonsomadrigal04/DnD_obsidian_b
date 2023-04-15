@@ -72,3 +72,13 @@ Dos polillas inofensivas salen volando de la capa si se toca la prenda. Uno de 
 
 ## <font color="#e36c09">C9. Cementerio</font>
 <font color="#00b0f0">"Una valla de hierro forjado de dos metros de altura encierra un pequeño cementerio al sur del chalet. En el lado norte del recinto hay una puerta con el nombre BRANTIFAX tallada en un arco encima. En el patio hay cuatro tumbas, cada una marcada con una lápida grabada."</font>
+
+De norte a sur los grabados dicen lo siguiente:
+
+_Barón Brantifax_
+_Esposo, Padre, Cazador_
+_"Que ningún hombre esté por encima de otro"_
+
+Brorn
+_Sabueso de Brantifax_
+_Fiel hasta el final_
