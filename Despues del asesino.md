@@ -2,7 +2,11 @@
 
 <font color="#00b0f0">"Decidisteis quedaros para ayudar al hombre a esperar a tal cuervo con capacidad de hablar. Una noche que estabais todos reunidos, un cuervo negro descendió de los cielos. Y pareceré estar intentando comunicaros algo"</font>
 
-El cuervo les llevará hasta un lirbo enterrado en el suelo y les dirá que lo coja. Se trata del libro de "L"
+El cuervo les llevará hasta un libro enterrado en el suelo y les dirá que lo coja. Se trata del libro de "Lirio" sobre [[Los Hombres Fortuitos]]
+
+---
+#### Si alguien puede hablar con los animales
+El cuervo hablará <u>expresamente y pedirá ayuda a la party</u>. Les dirá que es hija de [[Brantifax]]
 
 · Comenzará la recopilación de la información sobre los [[Los Hombres Fortuitos]], si le preguntan a Menister. 
 · Después les dará un mapa que encontró en una de las páginas del libro, se cree que este mapa fue puesto en el mismo por [[Zaperdes]]
