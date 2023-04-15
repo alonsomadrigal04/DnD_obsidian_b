@@ -136,4 +136,7 @@ Es el lugar de reunión de [[Faja escarlata]]
 ---
 [[Faja escarlata#Rennick Groka]], les espera para hablar con ellos sobre por qué hacen aquí y les intentará echar, pero no querrá pelear, simplemente les espera e intenta persuadir para que se vayan.
 
-# <font color="#e36c09">TERCER PISO (C15 - C17)</font>
+# <font color="#974806">TERCER PISO (C15 - C17)</font>
+## <font color="#e36c09">C15. Vivero del ático</font>
+
+<font color="#00b0f0">"Este ático tiene un techo a dos aguas que desciende hacia el este y el oeste. El polvo cubre todo en la habitación, incluido un hogar de piedra en el medio de la pared norte, un espejo ovalado montado encima y una alfombra ovalada en el piso. Contra la pared oeste, medio escondida detrás de cortinas de telarañas, hay una cama del tamaño de un niño pequeño, una mecedora, un estante lleno de muñecas y un lavabo. Un nicho al sur contiene una pequeña cuna de madera, un parque de madera y una jardinera. Suspendido sobre el parque hay un móvil hecho de peces pintados de colores en los extremos de los ganchos."</font>
