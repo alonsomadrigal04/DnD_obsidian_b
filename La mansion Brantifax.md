@@ -60,4 +60,7 @@ Dos polillas inofensivas salen volando de la capa si se toca la prenda. Uno de 
 
 · Los miembros de [[Scarlet Sash]], no utilizan la sala.
 
-C7. Cocina
+## <font color="#e36c09">C7. Cocina</font>
+"<font color="#00b0f0">El olor fantasmal de las comidas pasadas aún ronda esta cocina, atrapada para siempre en la madera de sus mesas, el hollín en su hogar y la mugre en sus ollas, muchas de las cuales cuelgan de ganchos por la habitación. Casi todo lo que esperaría ver en una cocina de este tamaño se puede encontrar aquí, incluidos armarios llenos de platos, artículos de limpieza y utensilios de cocina. Los ratones corretean por el suelo, haciendo todo lo posible para evitarte.</font>"
+
+· Está claro que la cocina todavía ve uso. Los miembros de Scarlet Sash almacenan raciones y especias en algunas de las ollas y calderos, para mantenerlos alejados de los ratones, y algunos platos sucios se apilan cerca de un lavabo, esperando ser lavados.
