@@ -11,3 +11,5 @@
 
 # <font color="#974806">BODEGA (C1- C3)</font>
 ## <font color="#e36c09">C1. El almacen</font>
+
+<font color="#00b0f0">"Esta bodega fría, húmeda y de forma extraña tiene un techo de madera de dos metros y medio de altura y un suelo de losas. Las paredes están hechas de ladrillos toscos oscuros. Gruesas telarañas cubren cajas, barriles y muebles viejos apilados contra la pared norte. Al sur hay un par de puertas de madera cerradas. La puerta más alejada de ti se abre con bisagras oxidadas, y más allá ves una cámara más pequeña, casi sepulcral."</font>
