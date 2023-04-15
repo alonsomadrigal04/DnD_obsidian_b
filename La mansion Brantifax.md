@@ -125,3 +125,5 @@ Los hombres cuervos comparten esta habitación, que pertenecía al barón [[Bant
 <font color="#00b0f0">"Una explosión de algún tipo dañó los dos niveles superiores de esta torre, creando un gran agujero entre ellos y cubriendo el área con hollín. Una escalera de madera curvada que una vez subía a lo largo de la pared exterior ha sido destruida, dejando una forma fácil de llegar a lo que queda del piso más alto de la torre. Todo lo que queda de la escalera son algunos fragmentos irregulares de madera que sobresalen de la pared en diferentes ángulos."</font>
 
 Lo que queda de la escalera no es apto para subir. La explosión que lo destruyó y gran parte del piso superior fue provocada accidentalmente por los hombres cuervos. El barón Brantifax incursionó en la alquimia, y los personajes pueden encontrar algunos suministros de alquimista dañados y sin valor si buscan entre los restos en el nivel inferior.
+
+Es el lugar de reunión de [[Faja escarlata]]
