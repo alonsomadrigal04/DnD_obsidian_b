@@ -94,7 +94,7 @@ De norte a sur los grabados dicen lo siguiente:
 - **Barón Brantifax** Tiene un anillo de oro con forma de ciervo de <u>25 de oro</u>
 - [[Cruce de sombras]], en la tumba de Silfene
 
-# <font color="#974806">Segundo piso (C10 - C14)</font>
+# <font color="#974806">SEGUNDO PISO (C10 - C14)</font>
 ## <font color="#e36c09">C10. Habitacion de invitados</font>
 La puerta está abierta.
 <font color="#00b0f0">"Este dormitorio no ha sido tocado en años, como lo demuestra el espeso polvo y las telarañas que lo cubren todo."</font>
@@ -113,3 +113,6 @@ Igual que <font color="#e36c09">C10</font> pero esta cerrada la puerta
 La escalera de caracol conduce a la guardería del ático <font color="#e36c09">área C15</font>. La escalera no se ha utilizado en años
 
 El escritorio de tapa corrediza está cerrado con llave y falta su llave. Un personaje puede usar una acción para intentar forzar la cerradura usando herramientas de ladrón, haciéndolo con una prueba exitosa de Destreza CD 13. Un personaje también puede romper la cerradura del escritorio con un arma contundente. Encuentran [[Diario de la Baronesa]]
+
+## <font color="#e36c09">C13. Recamara principal</font>
+<font color="#00b0f0">"Este amplio dormitorio tiene paredes decoradas con revestimientos de madera y lámparas de aceite oxidadas. Una cama con dosel se alza contra la pared sur, con los postes de la cama tallados para que parezcan ciervos y lobos. Frente a la cama hay un hogar de piedra con una repisa de mármol negro que tiene un par de cuernos de alce montados encima. Un escritorio desnudo y cubierto de polvo está colocado contra la pared oeste, debajo de un par de ventanas altas flanqueadas por cortinas de color burdeos. Otros muebles incluyen un armario alto en la esquina noreste y una perrera vacía en la esquina sureste."</font>
