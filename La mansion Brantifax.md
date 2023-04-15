@@ -99,8 +99,9 @@ De norte a sur los grabados dicen lo siguiente:
 La puerta está abierta.
 <font color="#00b0f0">"Este dormitorio no ha sido tocado en años, como lo demuestra el espeso polvo y las telarañas que lo cubren todo."</font>
 
-<u>2 pociones de salud</u> se encuentran aquí
-
+· <u>2 pociones de salud</u> se encuentran aquí
+· A spell cast from this scroll has a save DC of 15 and an attack bonus of +7.
+(pergamino de )
 "Los muebles incluyen una cama estrecha con un colchón mohoso y una cabecera elegantemente tallada, una cómoda de madera vacía, una mesita de noche, un perchero y un sillón acolchado. Un espejo ovalado cuelga en la pared al lado de la puerta."
 
 ## <font color="#e36c09">C11. Habitacion de invitados II</font>
