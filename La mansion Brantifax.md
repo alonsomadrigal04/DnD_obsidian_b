@@ -99,7 +99,7 @@ De norte a sur los grabados dicen lo siguiente:
 La puerta está abierta.
 <font color="#00b0f0">"Este dormitorio no ha sido tocado en años, como lo demuestra el espeso polvo y las telarañas que lo cubren todo."</font>
 
-2 pociones de salud se encuentran aqui
+<u>2 pociones de salud</u> se encuentran aquí
 
 "Los muebles incluyen una cama estrecha con un colchón mohoso y una cabecera elegantemente tallada, una cómoda de madera vacía, una mesita de noche, un perchero y un sillón acolchado. Un espejo ovalado cuelga en la pared al lado de la puerta."
 
