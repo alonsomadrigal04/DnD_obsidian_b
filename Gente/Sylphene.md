@@ -1,0 +1,1 @@
+Hija de [[Brantifax]], hermana de [[Hetule]] y su tumba en[[La mansion Brantifax#<font color=" e36c09">C9. Cementerio</font>]] habre una puerta en el [[Cruce de sombras]]
