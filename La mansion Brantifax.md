@@ -40,3 +40,7 @@ Servía como vivienda para el jardinero y para el cocinero.
 
 # <font color="#974806">PLANTA BAJA (C4 - C9)</font>
 ## <font color="#e36c09">C4. Guardaropa</font>
+
+<font color="#00b0f0">"Ganchos de hierro oxidado se alinean en las paredes de este vestíbulo de entrada. De dos de estos ganchos cuelgan una pala y un rastrillo. Una capa polvorienta está colgada de un gancho junto a una puerta redonda en la pared sur."</font>
+
+Dos polillas inofensivas salen volando de la capa si se toca la prenda. Uno de los bolsillos de la capa contiene una llave de hierro oxidada que abre el candado en el área C16 .
