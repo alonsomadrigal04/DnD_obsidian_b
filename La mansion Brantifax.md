@@ -70,4 +70,5 @@ Dos polillas inofensivas salen volando de la capa si se toca la prenda. Uno de 
 
 · Parece estar todo curiosamente limpio.
 
-C9: Cementerio
+## <font color="#e36c09">C9. Cementerio</font>
+<font color="#00b0f0">"Una valla de hierro forjado de dos metros de altura encierra un pequeño cementerio al sur del chalet. En el lado norte del recinto hay una puerta con el nombre BRANTIFAX tallada en un arco encima. En el patio hay cuatro tumbas, cada una marcada con una lápida grabada."</font>
