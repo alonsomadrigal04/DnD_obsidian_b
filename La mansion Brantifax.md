@@ -108,3 +108,10 @@ La puerta está abierta.
 Igual que <font color="#e36c09">C10</font> pero esta cerrada la puerta
 
 ## <font color="#e36c09">C12. Estudio</font>
+<font color="#00b0f0">"Contra la pared oeste se encuentra un hermoso escritorio de tapa corrediza, al norte del cual dos sillones tapizados en cuero se enfrentan a una chimenea tallada con imágenes de lobos y ciervos. Sobre cada silla hay una piel de lobo. Una estrecha escalera de caracol llena de telarañas serpentea por la pared este."</font>
+
+La escalera de caracol conduce a la guardería del ático <font color="#e36c09">área C15</font>. La escalera no se ha utilizado en años
+
+El escritorio de tapa corrediza está cerrado con llave y falta su llave. Un personaje puede usar una acción para intentar forzar la cerradura usando herramientas de ladrón, haciéndolo con una prueba exitosa de Destreza CD 13. Un personaje también puede romper la cerradura del escritorio con un arma contundente.
+
+<font color="#00b0f0">"El escritorio contiene un conjunto de suministros de calígrafo y un diario encuadernado en cuero con una cabeza de lobo estilizada en la portada. El diario pertenece a la esposa del barón Brantifax y contiene su delicada letra. En él describe sus visitas al chalet, que odiaba, y las tribulaciones de sus hijas, a las que adoraba.""</font>
