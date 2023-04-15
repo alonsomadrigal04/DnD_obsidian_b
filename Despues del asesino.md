@@ -34,8 +34,9 @@ Cuando lleguen
 A el puente de madera, un gran goliath les detendrá el paso, y les dirán 3 acertijos. 
 
 1.  "Con una sola palabra me nombras, y al partir me destruyes. ¿Quién soy?" Respuesta: El silencio.
-2. "En el campo yo estoy presente, pero nunca se me ve. En la ciudad yo estoy ausente, pero mi presencia es evidente. ¿Qué soy?" Respuesta: La oscuridad.
-3. "Tengo una cabeza, un cuerpo y una cola, pero no soy una serpiente ni un dragón. Me ves en los campos de batalla y en los emblemas de los reyes. ¿Qué soy?"Respuesta: Un león,
+2. "Cuando me nombras, desaparezco y cuando acabas de decirla vuelvo"
+3. "En el campo yo estoy presente, pero nunca se me ve. En la ciudad yo estoy ausente, pero mi presencia es evidente. ¿Qué soy?" Respuesta: La oscuridad.
+4. "Tengo una cabeza, un cuerpo y una cola, pero no soy una serpiente ni un dragón. Me ves en los campos de batalla y en los emblemas de los reyes. ¿Qué soy?"Respuesta: Un león,
 ---
 ### La mano del horn
 
