@@ -35,7 +35,9 @@ A el puente de madera, un gran goliath les detendrá el paso, y les dirán 3 ace
 
 1.  "Con una sola palabra me nombras, y al partir me destruyes. ¿Quién soy?" Respuesta: El silencio.
 2. "Cuando me nombras, desaparezco y cuando acabas de decirla vuelvo a aparecer"
-3. "En el campo yo estoy presente, pero nunca se me ve. En la ciudad yo estoy ausente, pero mi presencia es evidente. ¿Qué soy?" Respuesta: La oscuridad.
+3. "En la ausencia de luz soy fuerte, mi presencia a menudo te asombre, me encuentras en la noche, largo o corto, soy el reino donde no hay rostro ni nombre."
+
+¿Qué soy yo?"  Respuesta: La oscuridad.
 4. "Tengo una cabeza, un cuerpo y una cola, pero no soy una serpiente ni un dragón. Me ves en los campos de batalla y en los emblemas de los reyes. ¿Qué soy?"Respuesta: Un león,
 ---
 ### La mano del horn
