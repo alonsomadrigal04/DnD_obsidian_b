@@ -24,6 +24,14 @@ Eventos:
 
 ## <font color="#e36c09">C2. Casa de sirvientes</font>
 
-La puerta está cerrada, pero la pueden abrir con un Fuerza CD 13.
+La puerta está cerrada, pero la pueden abrir con una Fuerza CD 13.
+
+<font color="#00b0f0">"Esta habitación fría y sin ventanas contiene un par de camas con armazón de madera, dos armarios estrechos y una alfombra vieja. Montado en la pared este entre las camas hay un estante de madera que sostiene un par de candelabros. Las velas en ellos están apagadas"</font>
+
+Servía como vivienda para el jardinero y para el cocinero.
 
 ## <font color="#e36c09">C3. Pozo</font>
+
+<font color="#00b0f0">"La única característica de esta habitación húmeda, fría y circular es un pozo de cuatro pies de diámetro en el medio del piso. Junto a este eje se encuentra un cubo de madera sujeto a una cuerda enrollada.</font>
+
+<font color="#00b0f0">El fondo del pozo está velado en la oscuridad. Desde sus profundidades, una voz susurrante dice: "¡Brorn! ¿Dónde estás, muchacho?""</font>
