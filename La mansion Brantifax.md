@@ -74,9 +74,19 @@ Dos polillas inofensivas salen volando de la capa si se toca la prenda. Uno de 
 <font color="#00b0f0">"Una valla de hierro forjado de dos metros de altura encierra un pequeño cementerio al sur del chalet. En el lado norte del recinto hay una puerta con el nombre BRANTIFAX tallada en un arco encima. En el patio hay cuatro tumbas, cada una marcada con una lápida grabada."</font>
 
 De norte a sur los grabados dicen lo siguiente:
-
-
-
+	**_Barón Brantifax_**
+	_Esposo, Padre, Cazador_
+	_"Que ningún hombre esté por encima de otro"_
+	**_Brorn_**
+	_Sabueso de Brantifax_
+	_Fiel hasta el final_
+	**_HELUTA_**
+	_Nuestro orgullo y alegría_
+	_perdido demasiado pronto_
+	**_SILFENE_**
+	_Amada hija_
+	Que ella encuentre la paz por fin
+	
 
 · Pueden coger las tumbas y profanarlas si quieren;
-- Hele
+- Heluta fue sustituida por 
