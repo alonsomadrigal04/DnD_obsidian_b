@@ -10,3 +10,6 @@ Descripcion del libro: <font color="#00b0f0">"Este delgado libro no tiene títul
 <font color="#00b0f0">"El autor describe caminos accidentados, días de viaje a través de una niebla impenetrable y un bosque espeso, fuegos crepitantes en las noches frías, lobos aullando en la oscuridad de la noche y cuervos picoteando el techo del vagón en las primeras horas de la mañana."</font>
 
 Cuando lo lean tendrán que tirar un dado de 6 para ver que descubren sobre los [[Vistani Lore]].
+
+Items mágicos:
+[[Victor Gem]]

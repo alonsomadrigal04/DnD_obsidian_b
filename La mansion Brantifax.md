@@ -1,1 +1,3 @@
-"Una oscura casa de piedra se alza enfrente vuestro, despues de una dra caminata solo querriais descansar, pero nada más llegar se os presenta un escenario peculiar. y es que todos los rincones de esta casa, estan rodeados de cuervos, pero cuervos que no os apartan la mirada"
+"Una oscura mansión de piedra se alza enfrente vuestro, después de una dura caminata solo querríais descansar, pero nada más llegar se os presenta un escenario peculiar. Y es que todos los rincones de esta casa, están rodeados de cuervos, pero cuervos que no os apartan la mirada, os recuerdan bastante a [[Vitali]], la cual no deja de mirar a los cuervos de manera impaciente"
+
+"En un estado algo decrepito la casa apenas puede man"
