@@ -21,7 +21,7 @@ Tendrán que ir hacia Wytchway, la aldea les servirá como punto de partida.
 
 #### Investigan
 1. Encuentran un tablón de anuncios con las siguientes advertencias: "Mala cosecha debido al Basilisko, Wytchway debería ser abandonada antes de ser fulminada por esa criatura"
-2. 
+2. Encontrarán: 1 tridente, 
 
 ---
 Tendrán que tener 3d4 de estos encounters. 
