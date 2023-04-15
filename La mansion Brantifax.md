@@ -101,7 +101,7 @@ La puerta está abierta.
 
 · <u>2 pociones de salud</u> se encuentran aquí
 · A spell cast from this scroll has a save DC of 15 and an attack bonus of +7.
-(pergamino de )
+(pergamino de <u>Blinding Smite</u>)
 "Los muebles incluyen una cama estrecha con un colchón mohoso y una cabecera elegantemente tallada, una cómoda de madera vacía, una mesita de noche, un perchero y un sillón acolchado. Un espejo ovalado cuelga en la pared al lado de la puerta."
 
 ## <font color="#e36c09">C11. Habitacion de invitados II</font>
