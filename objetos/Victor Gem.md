@@ -1,0 +1,1 @@
+Esta piedra se dice que fue forjada por los primeros hombres. Víctor fue el que llevo esta gema consigo durante todas las batallas, hasta qeu murió asesinado por el dragón leviatán. Se dice que antes de la batalla, sus enemigos eran envueltos en llamas antes de comenzar una batalla
