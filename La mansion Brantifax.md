@@ -9,3 +9,5 @@
 
 ![[024-map-4.01-chalet-brantifax.jpg]]
 
+# <font color="#974806">BODEGA (C1- C3)</font>
+## <font color="#e36c09">C1. El almacen</font>
