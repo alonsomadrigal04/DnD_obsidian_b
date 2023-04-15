@@ -35,3 +35,7 @@ Servía como vivienda para el jardinero y para el cocinero.
 <font color="#00b0f0">"La única característica de esta habitación húmeda, fría y circular es un pozo de cuatro pies de diámetro en el medio del piso. Junto a este eje se encuentra un cubo de madera sujeto a una cuerda enrollada.</font>
 
 <font color="#00b0f0">El fondo del pozo está velado en la oscuridad. Desde sus profundidades, una voz susurrante dice: "¡Brorn! ¿Dónde estás, muchacho?""</font>
+
+Tesoro. 
+
+Cualquier personaje que pase al menos 15 minutos buscando en el fondo de la cisterna del pozo encuentra un símbolo sagrado de Sune (dios del amor y la belleza) en una cadena de oro. El objeto vale 25 po y también sirve como cameo. Contiene un diminuto retrato de la esposa del barón, a quien los personajes podrían reconocer por el retrato enmarcado más grande en el [área C17](https://5e.tools/adventure.html#cm,4,c17.%20storage%20attic,0) . Si este cameo se reencuentra con el barón (cuyos restos están enterrados en [el área C9](https://5e.tools/adventure.html#cm,4,c9.%20graveyard,0) ), el espíritu del barón descansa y cada personaje responsable de este acto obtiene un amuleto de heroísmo (ver " [Regalos sobrenaturales](https://5e.tools/book.html#DMG,7,charms,0) " en la [Guía del Dungeon Master](https://5e.tools/book.html#DMG) ) .

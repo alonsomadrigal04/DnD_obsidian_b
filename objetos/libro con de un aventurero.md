@@ -1,4 +1,4 @@
-Diario del Aventurero - Mansión [[Brantifax]]
+Diario de Lucas Stornk - Mansión [[Brantifax]]
 
 Fecha: Shulen del tercer ciclo del deshielo del paso 17º de la Era 3
 
@@ -11,5 +11,3 @@ Al parecer, el Barón [[Brantifax]], dueño de la mansión, sufrió la pérdida 
 Los sirvientes, aterrorizados por los susurros y la presencia inquietante de un espíritu, abandonaron la mansión poco después de la muerte del Barón. Según lo que pude recopilar de las historias locales, el espíritu del Barón todavía deambula por la mansión, pero su poder es limitado y no puede causar daño físico. Parece que la muerte de su fiel compañero canino desencadenó una serie de eventos perturbadores que han dejado a la Mansión [[Brantifax]] en su actual estado de abandono.
 
 Continuaré explorando en busca de más pistas sobre los secretos ocultos que esta mansión pueda albergar. Mantendré este diario actualizado con mis descubrimientos.
-
-Firmado, [Nombre del aventurero]
