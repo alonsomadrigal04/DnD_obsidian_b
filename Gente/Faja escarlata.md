@@ -1,6 +1,6 @@
 Cuervos humanoides que recogen cosas misteriossas y las guardan en la mansion hasta que encuentran un lugar apropiado para esconderlas.
 
-### Madrina Natteraskp38
+### Madrina Natterask
 
 _Buen hombre cuervo humano legal (edad 55)_
 
@@ -22,7 +22,7 @@ Defecto. 
 
 "Me encanta meter el pico en los asuntos de todos".
 
-### Taspar Hatchhillp38[–]
+### Taspar Hatchhill
 
 _Buen hombre cuervo humano legal (edad 71)_
 
@@ -44,7 +44,7 @@ Defecto. 
 
 "Tartamudeo cuando estoy agitado".
 
-### Rennick Grokap38[–]
+### Rennick Groka
 
 _Buen hombre cuervo humano legítimo (22 años)_
 
@@ -65,3 +65,25 @@ Vínculo. 
 Defecto. 
 
 "La maldad lo arruina todo, y nada de lo que hago parece importar. Me temo que todos estamos condenados a sufrir lo insoportable. La miseria se ha convertido en mi compañera del alma".
+
+### Vinique 
+
+_Buen hombre cuervo humano legal (edad 30)_
+
+Vinique trajo una reliquia espantosa y malvada (ver la barra lateral " [Estatuilla de Orcus](https://5e.tools/items.html#orcus%20figurine_cm) " más adelante en la aventura) al chalet. Lo guarda en una lámpara vieja que no funciona y que lleva consigo en todo momento. Dotada de un ingenio irónico y una carcajada de bruja, Vinique imita los gritos felices de los niños pequeños y los gritos de un moribundo para asustar a los intrusos.
+
+Rasgo de la personalidad. 
+
+"Una vez que tomo una decisión, eso es todo. Nadie puede hacerme cambiar de opinión".
+
+Ideal. 
+
+"El mal puede estar en todas partes, pero mientras haya aliento en mi cuerpo, nunca dejaré de picotear sus talones".
+
+Vínculo. 
+
+"Madrina es la madre que nunca tuve. No sé qué haría sin ella".
+
+Defecto. 
+
+"Hablo por encima de los demás, y siempre necesito tener la última palabra".
