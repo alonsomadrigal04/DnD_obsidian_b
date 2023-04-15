@@ -19,6 +19,9 @@ Tendrán que ir hacia Wytchway, la aldea les servirá como punto de partida.
 
 <font color="#595959">Los ataques de monstruos obligaron a los residentes de Wytchway a abandonar la aldea hace años. Todo lo que queda es un carro averiado rodeado de cercas podridas y granjas en ruinas, envueltas en niebla e invadidas por cerdos salvajes.</font>
 
+#### Investigan
+1. Encuentran un tablón de anuncios con las siguientes advertencias: ""
+
 ---
 Tendrán que tener 3d4 de estos encounters. 
 https://5e.tools/encountergen.html#hill_xge_1-4
