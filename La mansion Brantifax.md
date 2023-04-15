@@ -2,7 +2,7 @@
 
 <font color="#00b0f0">"En un estado algo decrépito la casa apenas puede mantenerse sobre sus cimientos, este ayudado por la oscura noche de Velar, no ayuda a que el aspecto de la casa mejore por momentos. De hecho, solamente una luz que proviene de la parte más alta de la casa os llama en especial la atención"</font>
 
-· 2, https://5e.tools/bestiary.html#scarecrow_mm (espantapájaros), se estan moviento por el gran jardín, pueden ser sigilosos o no.
+· 2, https://5e.tools/bestiary.html#scarecrow_mm (espantapájaros), se están moviendo por el gran jardín, pueden ser sigilosos o no.
 
 ---
 ## Mansión
@@ -92,4 +92,9 @@ De norte a sur los grabados dicen lo siguiente:
 · Pueden coger las tumbas y profanarlas si quieren;
 - Heluta fue sustituida por 2 (https://5e.tools/bestiary.html#crawling%20claw_mm) y un (https://5e.tools/bestiary.html#scarecrow_mm)
 - **Barón Brantifax** Tiene un anillo de oro con forma de ciervo de <u>25 de oro</u>
-- [[Cruce de sombras]]
+- [[Cruce de sombras]], en la tumba de Silfene
+
+# <font color="#974806">Segundo piso (C10 - C14)</font>
+## <font color="#e36c09">C10. Habitacion de invitados</font>
+La puerta está abierta.
+<font color="#00b0f0">"Este dormitorio no ha sido tocado en años, como lo demuestra el espeso polvo y las telarañas que lo cubren todo."</font>
