@@ -78,3 +78,5 @@ De norte a sur los grabados dicen lo siguiente:
 
 
 
+· Pueden coger las tumbas y profanarlas si quieren;
+- Hele
