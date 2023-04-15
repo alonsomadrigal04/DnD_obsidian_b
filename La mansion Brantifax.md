@@ -128,6 +128,10 @@ Lo que queda de la escalera no es apto para subir. La explosión que lo destruy
 
 Es el lugar de reunión de [[Faja escarlata]]
 
-### Si han sido sniki
+### Sí han sido sniki
 ---
-[[Faja escarlata#Madrina Natterask]], 
+[[Faja escarlata#Madrina Natterask]], [[Faja escarlata#Vinique]], [[Faja escarlata#Taspar Hatchhill]]; están discutiendo de donde dejar la estatuilla del orco que han encontrado. Finalmente, deciden dejarla aquí por el momento para después esconderla en otro lugar.
+
+### Si no han sido sniki
+---
+[[Faja escarlata#Rennick Groka]], les espera para hablar con ellos sobre por que hacen aqui
