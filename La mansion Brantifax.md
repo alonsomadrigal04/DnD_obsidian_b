@@ -77,6 +77,7 @@ De norte a sur los grabados dicen lo siguiente:
 	**_Barón Brantifax_**
 	_Esposo, Padre, Cazador_
 	_"Que ningún hombre esté por encima de otro"_
+	Un escalofrio por la espalda les recorre
 	**_Brorn_**
 	_Sabueso de Brantifax_
 	_Fiel hasta el final_
@@ -89,4 +90,6 @@ De norte a sur los grabados dicen lo siguiente:
 	
 
 · Pueden coger las tumbas y profanarlas si quieren;
-- Heluta fue sustituida por 
+- Heluta fue sustituida por 2 (https://5e.tools/bestiary.html#crawling%20claw_mm) y un (https://5e.tools/bestiary.html#scarecrow_mm)
+- **Barón Brantifax** Tiene un anillo de oro con forma de ciervo de <u>25 de oro</u>
+- [[Cruce de sombras]]
