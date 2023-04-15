@@ -21,11 +21,14 @@ Tendrán que ir hacia Wytchway, la aldea les servirá como punto de partida.
 
 #### Investigan
 1. Encuentran un tablón de anuncios con las siguientes advertencias: "Mala cosecha debido al Basilisko, Wytchway debería ser abandonada antes de ser fulminada por esa criatura"
-2. Encontrarán: 1 tridente, 
+2. Encontrarán: 1 tridente, Splint Armor, 4 de oro, 5 de plata
 
 ---
 Tendrán que tener 3d4 de estos encounters. 
 https://5e.tools/encountergen.html#hill_xge_1-4
+
+· Como recompensa obtienen 5 de oro
+
 ---
 Cuando lleguen
 A el puente de madera, un gran goliath les detendrá el paso, y les dirán 3 acertijos. 
