@@ -140,3 +140,11 @@ Es el lugar de reunión de [[Faja escarlata]]
 ## <font color="#e36c09">C15. Vivero del ático</font>
 
 <font color="#00b0f0">"Este ático tiene un techo a dos aguas que desciende hacia el este y el oeste. El polvo cubre todo en la habitación, incluido un hogar de piedra en el medio de la pared norte, un espejo ovalado montado encima y una alfombra ovalada en el piso. Contra la pared oeste, medio escondida detrás de cortinas de telarañas, hay una cama del tamaño de un niño pequeño, una mecedora, un estante lleno de muñecas y un lavabo. Un nicho al sur contiene una pequeña cuna de madera, un parque de madera y una jardinera. Suspendido sobre el parque hay un móvil hecho de peces pintados de colores en los extremos de los ganchos."</font>
+
+· está el espíritu de su hermana en forma de https://5e.tools/bestiary.html#poltergeist_mm
+
+## <font color="#e36c09">C16. Ático de sirvientes</font>
+<font color="#00b0f0">"Dos agujeros abiertos en el techo puntiagudo exponen este ático a los elementos. Tejas de arcilla rotas, astillas de madera, hojas secas y excrementos de pájaros cubren el piso, que ha comenzado a pudrirse en varios lugares. Las vigas albergan varios nidos de pájaros formados con ramitas y paja.</font>
+
+<font color="#00b0f0">Dos marcos de cama de madera se apoyan contra la pared norte. Construido en la caja de la ventana entre ellos hay un baúl de almacenamiento de madera sellado con un candado oxidado. Otros muebles en la habitación incluyen un par de armarios altos y estrechos."</font>
+
