@@ -47,4 +47,10 @@ La puerta está cerrada, por un "Crossbar", dentro de la misma. Pueden romper la
 
 Dos polillas inofensivas salen volando de la capa si se toca la prenda. Uno de los bolsillos de la capa contiene una llave de hierro oxidada que abre el candado en el <font color="#e36c09">área C16</font> .
 
-## C5. 
+## <font color="#e36c09">C5. Salon</font>
+
+<font color="#00b0f0">"La luz entra en esta espaciosa habitación a través de un bulto en la pared norte, donde las ventanas agrietadas y rotas dan a un valle neblinoso. Sábanas polvorientas cubren la mayor parte del mobiliario de la habitación. Las telarañas se extienden entre las astas, las cabezas de lobo y otros trofeos de caza montados en las paredes sobre el revestimiento de madera. Un rectángulo pálido sobre la gran chimenea sugiere que una vez colgó allí una imagen o un espejo."</font>
+
+· Una pintura del barón y su esposa una vez colgó sobre la chimenea, pero los sirvientes la quitaron y la trasladaron al ático<font color="#e36c09"> área C17</font> después de la muerte del barón.
+
+· Una escalera de madera chirriante con un pasamanos bellamente tallado sube a un rellano fuera del salón área C8. Cerca de las escaleras hay una puerta parcialmente abierta a través de la cual se puede ver la cocina  área C7. Un pasillo corto conecta con el comedor ( [área C6](https://5e.tools/adventure.html#cm,4,c6.%20dining%20room,0) ).
