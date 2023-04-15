@@ -148,3 +148,8 @@ Es el lugar de reunión de [[Faja escarlata]]
 
 <font color="#00b0f0">Dos marcos de cama de madera se apoyan contra la pared norte. Construido en la caja de la ventana entre ellos hay un baúl de almacenamiento de madera sellado con un candado oxidado. Otros muebles en la habitación incluyen un par de armarios altos y estrechos."</font>
 
+***Baúl con candado**.*  El candado en el baúl de almacenamiento de la caja de la ventana se puede abrir con la llave que se encuentra en el [área C4](https://5e.tools/adventure.html#cm,4,c4.%20cloakroom,0) o se puede romper con un golpe sólido de un arma contundente. Un personaje puede usar una acción para intentar forzar la cerradura usando herramientas de ladrón, haciéndolo con una prueba exitosa de Destreza CD 12. El baúl contiene parte de la parafernalia de caza del barón Brantifax: una [armadura de cuero tachonado](https://5e.tools/items.html#studded%20leather%20armor_phb) del tamaño de un humano adulto corpulento, un casco de cuero, una [ballesta pesada](https://5e.tools/items.html#heavy%20crossbow_phb) , una caja de madera con el monograma BB y dos trampas de caza. La caja de madera contiene quince [saetas de ballesta](https://5e.tools/items.html#crossbow%20bolt%20case_phb) con emplumado carmesí.
+
+***Armarios***. Los miembros de Scarlet Sash vienen aquí y cuelgan sus túnicas y fajas antes de tomar forma de cuervo, guardándolas junto con su ropa extra en los armarios y usando los agujeros en el techo como su forma principal de entrar y salir del chalet. Los personajes que buscan en los armarios encuentran cinco túnicas negras polvorientas, cinco pares de sandalias de cuero y cinco fajas escarlata.
+
+<font color="#e36c09">C17. Atico de almacenamiento</font>
