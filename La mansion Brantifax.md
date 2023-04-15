@@ -14,8 +14,9 @@
 
 <font color="#00b0f0">"Esta bodega fría, húmeda y de forma extraña tiene un techo de madera de dos metros y medio de altura y un suelo de losas. Las paredes están hechas de ladrillos toscos oscuros. Gruesas telarañas cubren cajas, barriles y muebles viejos apilados contra la pared norte. Al sur hay un par de puertas de madera cerradas. Parecen haber 2 habitaciones"</font>
 Eventos:
+·Encuentran un[[ libro con de un aventurero]] de la mansión [[Brantifax]], 
 · La puerta de C3, se abre lentamente con un estridente crujido.  https://www.youtube.com/watch?v=Bo6RKivT5KQ
 · Escucharan un susurro que dice "<u>No puedo salir</u>"
 
-## C
+## <font color="#e36c09">C2. Casa de sirvientes</font>
 ## <font color="#e36c09">C3. Pozo</font>
