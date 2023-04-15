@@ -3,3 +3,9 @@
 <font color="#00b0f0">"En un estado algo decrépito la casa apenas puede mantenerse sobre sus cimientos, este ayudado por la oscura noche de Velar, no ayuda a que el aspecto de la casa mejore por momentos. De hecho, solamente una luz que proviene de la parte más alta de la casa os llama en especial la atención"</font>
 
 · 2, https://5e.tools/bestiary.html#scarecrow_mm (espantapájaros), se estan moviento por el gran jardín, pueden ser sigilosos o no.
+
+---
+## Mansión
+
+![[024-map-4.01-chalet-brantifax.jpg]]
+
