@@ -1,3 +1,3 @@
 Esta piedra se dice que fue forjada por los primeros hombres. Víctor fue el que llevo esta gema consigo durante todas las batallas, hasta que murió asesinado por el dragón leviatán. Se dice que antes de la batalla, sus enemigos eran envueltos en llamas antes de comenzar una batalla. Era el resplandor de esta gema
 
-Una vez por <u>descanso largo</u>, eres capaz de crear un destello que deslumbra a tus enemigos. Los cuales tienen que tirar un CONSTITUCIO
+Una vez por <u>descanso largo</u>, eres capaz de crear un destello que deslumbra a tus enemigos. Los cuales tienen que tirar un DADO DE SALVACIÓN CONSTITUCIÓN 14, recibiendo 2d6 de daño de fuego, siempre. En el fallo de los dados quedarán cegados 2 turnos, en un exito no serán dañados.
